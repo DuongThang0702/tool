@@ -1,0 +1,157 @@
+{
+	"appDesc": {
+		"message": "Zamanınızı boşa harcamayın. FastForward, can sıkıcı bağlantı kısaltma servislerini atlatmanızı sağlar."
+	},
+	"firstrunTitle": {
+		"message": "FastForward'ı kurduğunuz için teşekkür ederiz!"
+	},
+	"firstrunNoScript": {
+		"message": "Ancak FastForward ile uyumlu olmayan NoScript veya benzeri bir uzantı kullandığınızı tespit ettik."
+	},
+	"version": {
+		"message": "Sürüm"
+	},
+	"definitionsVersion": {
+		"message": "Baypas tanımları"
+	},
+	"changelog": {
+		"message": "Değişiklik listesi"
+	},
+	"update": {
+		"message": "Güncellemeleri denetle"
+	},
+	"updating": {
+		"message": "Baypas tanımları indiriliyor..."
+	},
+	"updateYes": {
+		"message": "Baypas tanımları başarıyla indirildi."
+	},
+	"updateNo": {
+		"message": "Baypas tanımları güncel."
+	},
+	"faq": {
+		"message": "Sık Sorulan Sorular (SSS)"
+	},
+	"bypassCounter": {
+		"message": "FastForward sizin için şimdiye kadar % siteyi baypas etti."
+	},
+	"support": {
+		"message": "FastForward'a katkıda bulunun."
+	},
+	"options": {
+		"message": "Seçenekler"
+	},
+	"optionsLink": {
+		"message": "FastForward seçeneklerini değiştir."
+	},
+	"optionsEnabled": {
+		"message": "Web sitelerini baypas etmeyi etkinleştir."
+	},
+	"optionsNavigationDelay": {
+		"message": "Beni hedeflere % saniye sonra yönlendir."
+	},
+	"optionsTrackerBypass": {
+		"message": "Apimon.de kullanarak izleyicileri (örn. bit.ly ve t.co) baypas et."
+	},
+	"optionsInstantNavigationTrackers": {
+		"message": "Beni anında izleyicilerin hedefine götür."
+	},
+	"optionsBlockIPLoggers": {
+		"message": "Baypas edilemeyen IP kayıtçılarını engelle."
+	},
+	"optionsCrowdBypass": {
+		"message": "Kitle kaynaklı baypas: Baypas edilemeyen kısaltıcıların hedeflerini sunucuya gönder ve sunucudakileri al."
+	},
+	"optionsCrowdAutoOpen": {
+		"message": "Kitle kaynaklı hedefleri % saniye sonra yeni sekmede aç."
+	},
+	"optionsCrowdAutoClose": {
+		"message": "Kitle kaynaklı hedefi içeren sekmeyi ziyaret ettikten % saniye sonra kapat."
+	},
+	"privacyPolicy": {
+		"message": "Gizlilik Politikası"
+	},
+	"contributors": {
+		"message": "Katkıda bulunanlar"
+	},
+	"optionsUserscripts": {
+		"message": "Özel Baypaslar"
+	},
+	"optionsUserscriptsDescription": {
+		"message": "Geliştiriciler bu ileri düzey özelliği kullanarak siteleri baypas etmek için kendi script'lerini oluşturabilir. Çalıştığından emin olduğunuz script'leri FastForward'a eklememiz için GitHub üzerinden bize gönderilebilirsiniz. Böylece script'inizi herkes kullanabilir."
+	},
+	"beforeNavigate": {
+		"message": "Hedefe varmak üzeresiniz."
+	},
+	"beforeNavigateDestination": {
+		"message": "Hedefiniz: %"
+	},
+	"beforeNavigateUnsafe": {
+		"message": "Ama hedefe hemen giderseniz bu site FastForward'ı algılayacaktır."
+	},
+	"beforeNavigateUnsafeTimer": {
+		"message": "% saniye sonra fark edilmeyeceksiniz."
+	},
+	"beforeNavigateUnsafeTimerSingular": {
+		"message": "1 saniye sonra fark edilmeyeceksiniz."
+	},
+	"beforeNavigateTimer": {
+		"message": "% saniye sonra otomatik olarak yönlendirileceksiniz."
+	},
+	"beforeNavigateTimerSingular": {
+		"message": "1 saniye sonra otomatik olarak yönlendirileceksiniz."
+	},
+	"beforeNavigateOptions": {
+		"message": "Hemen mi yoksa x saniye sonra mı yönlendirilmek istersiniz?"
+	},
+	"beforeNavigateInstant": {
+		"message": "% adresine yönlendiriliyorsunuz"
+	},
+	"infoLinkvertise": {
+		"message": "FastForward'ın bu siteyi baypas etmesi için captcha'yı çözmeniz gerekiyor. Ondan sonra can sıkıcı adımları atlayabilirsiniz."	},
+	"infoFileHoster": {
+		"message": "Maalesef indirme sunucusu bu dosyayı indirmek için belli bir süre beklemenizi zorunlu tutuyor."
+	},
+	"infoOutdated": {
+		"message": "FastForward'ın yeni sürümleri bu web sitesini baypas edebilir."
+	},
+	"crowdWait": {
+		"message": "Maalesef bu bağlantıyla ilk karşılaşan sizsiniz, ancak siz bekledikten sonra diğer FastForward kullanıcılarının beklemesine gerek kalmayacak."
+	},
+	"crowdDisabled": {
+		"message": "Bu sitesi kitle kaynaklı paypas edilebilir. Seçeneklerden bu ayarı açabilirsiniz."
+	},
+	"crowdBypassed": {
+		"message": "Beklemek zorunda değilsiniz!"
+	},
+	"crowdBypassedInfo": {
+		"message": "Sizden önce bekleyen FastForward kullanıcıları bu bağlantının % adresine yönlendirildiğini bildirdi"
+	},
+	"crowdBypassedTimer": {
+		"message": "Bu adres % saniye sonra yeni sekmede açılacak."
+	},
+	"crowdBypassedTimerSingular": {
+		"message": "Bu adres 1 saniye sonra yeni sekmede açılacak."
+	},
+	"crowdCloseTimer": {
+		"message": "Bu sekme % saniye sonra kapanacak."
+	},
+	"crowdCloseTimerSingular": {
+		"message": "Bu sekme 1 saniye sonra kapanacak."
+	},
+	"cancel": {
+		"message": "Vazgeç."
+	},
+	"crowdBypassedIgnore": {
+		"message": "Doğru değil miydi?"
+	},
+	"crowdBypassedOptions": {
+		"message": "Hemen mi yoksa x saniye sonra mı yeni sekmede açılsın?"
+	},
+	"blockedTitle": {
+		"message": "FastForward, IP adresinizin kaydedilmesini engelledi."
+	},
+	"blockedSubtitle": {
+		"message": "FastForward'ın sizi IP adresinizin toplanmasından korumasını istemiyor musunuz?"
+	}
+}
